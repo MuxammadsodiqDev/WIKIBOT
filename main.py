@@ -10,7 +10,7 @@ from aiogram.filters import CommandStart,Command
 from aiogram.types import Message
 
 #this is bot token
-BOT_TOKEN = "7381610188:AAHqQkYr1GXsIbe3FmY6fr3hiuBxF0KBDH8"
+BOT_TOKEN = ""
 TOKEN = BOT_TOKEN
 wikipedia.set_lang('uz')
 
